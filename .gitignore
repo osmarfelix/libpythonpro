@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+        NORTE: OESTE, LESTE: NORTE, SUL: LESTE, OESTE: NORTE
 __pycache__/
 *.py[cod]
 *$py.class
