@@ -5,6 +5,16 @@ Nesse curso é ensinando como contribuir  com projetos em código aberto.
 
 Suportada versão 3 de python.
 
+Para instalar:
+``` console
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+Para conferir qualidade do código:
+```console
+flake8
+```
 Tópicos a serem abordados:
 
 1. Git
